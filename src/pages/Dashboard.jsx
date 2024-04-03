@@ -29,7 +29,7 @@ export const Dashboard = () => {
           className="h-[20vh] col-span-5 gap-2"
           alt="lol"
         />
-        <div className="col-span-0.2"></div>
+        <div className="col-span-0.2 md:hidden inline"></div>
         <div className="col-span-6 ">
           <div className="font-bold underline text-cyan-500">
           Who we are?

@@ -47,8 +47,8 @@ export const Footer = () => {
             <span className="md:p-2 flex justify-start md:space-x-4">
               <div className="rounded-full border border-white inline-block">
                 <img
-                  src="https://i.imgur.com/d7UbDn0.png"
-                  alt="Twitter"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwn-6JQplQF4dcRnArxTpc5bX6tEEymNJ25UENOw54Q&s"
+                  alt="Insta"
                   className="md:w-[4vh] md:p-2 p-0"
                 />
               </div>
@@ -72,8 +72,8 @@ export const Footer = () => {
               </div>
               <div className="rounded-full border border-white inline-block">
                 <img
-                  src="https://i.imgur.com/d7UbDn0.png"
-                  alt="Twitter"
+                  src="https://i.pinimg.com/564x/e8/c9/82/e8c9828387de2a83e5469a95bc6d8574.jpg"
+                  alt="Youtube"
                   className="md:w-[4vh] p-2"
                 />
               </div>
