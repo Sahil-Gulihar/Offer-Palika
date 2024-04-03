@@ -33,8 +33,8 @@ export const Slides = () => {
           </CarouselItem>
         </CarouselContent>
         
-        <CarouselNext className='bg-gray-400'/>
-        <CarouselPrevious className='bg-gray-400'/>
+        <CarouselNext className= 'hidden sm:block bg-gray-400'/>
+        <CarouselPrevious className='bg-gray-400 hidden sm:block' />
       </Carousel>
     </div>
   );

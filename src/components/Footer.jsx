@@ -53,18 +53,22 @@ export const Footer = () => {
                 />
               </div>
               <div className="rounded-full border border-white inline-block">
+                <a href="https://www.facebook.com/people/Offer-Palika/61552570012818/" target="_blank">
                 <img
                   src="https://i.imgur.com/oGm5Mej.png"
                   alt="fb"
                   className="md:w-[4vh]"
                 />
+                </a>
               </div>
               <div className="rounded-full border border-white inline-block">
+                <a href="https://www.linkedin.com/company/100686834/admin/feed/posts/" target="_blank" rel="noopener noreferrer">
                 <img
                   src="https://i.imgur.com/yFxHMpt.png"
                   alt="lINKEDiN"
                   className="md:w-[4vh]"
                 />
+                </a>
               </div>
               <div className="rounded-full border border-white inline-block">
                 <img
