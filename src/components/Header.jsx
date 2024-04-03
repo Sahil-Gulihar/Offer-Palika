@@ -6,7 +6,7 @@ export const Header = () => {
       <img
         src="https://i.imgur.com/Utv88HY.png"
         alt="Palika logo"
-        className="w-[16vh] md:w-[12vh] "
+        className="w-[14vh] md:w-[12vh] "
       />
       <SearchBar />
       <Button className=''>Contact</Button>

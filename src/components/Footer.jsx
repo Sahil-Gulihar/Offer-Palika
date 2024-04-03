@@ -12,7 +12,7 @@ export const Footer = () => {
           <div className="pb-1 md:pb-0">
             <input
               placeholder="Enter your Email"
-              className="bg-gray-800 text-white font-bold border-b w-full md:w-auto border-white"
+              className="bg-gray-800 text-white font-bold border-b w-1/2 md:w-auto border-white"
             ></input>
           </div>
           <div className="md:py-2 py-1">
