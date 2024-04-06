@@ -19,7 +19,7 @@ export const TopShops = () => {
       <div className="col-span-7 pb-2">
         <div className="flex flex-wrap">
           {[...Array(12)].map((_, index) => (
-            <div className="px-4" key={index}> <Link to='/shop'>
+            <div className="px-4" key={index}> <Link to='/content'>
               <img
                 src="https://api.pinupcoupons.com/uploads/images/ZAActiveStorage_VS/abcdepotuk.webp"
                 alt="Logos"

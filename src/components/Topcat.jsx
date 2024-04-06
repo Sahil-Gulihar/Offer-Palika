@@ -9,7 +9,7 @@ export const Topcat = () => {
       <div>
         <ul className="flex justify-between md:p-6 p-1">
           <li>
-            <Link to="/xyz">
+            <Link to="/content">
               <div className="relative w-[20vw] h-[20vw] transition ease-in-out duration-20000">
                 <img
                   src="https://m.media-amazon.com/images/I/91Zb64yWENL._AC_SY200_.jpg"
@@ -23,7 +23,7 @@ export const Topcat = () => {
             </Link>
           </li>
           <li>
-            <Link to="/xyz">
+            <Link to="/content">
               <div className="relative w-[20vw] h-[20vw] transition ease-in-out duration-20000">
                 <img
                   src="https://m.media-amazon.com/images/I/51ZpF7hDnvL._AC_SY200_.jpg"
@@ -37,7 +37,7 @@ export const Topcat = () => {
             </Link>
           </li>
           <li>
-            <Link to="/xyz">
+            <Link to="/content">
               <div className="relative w-[20vw] h-[20vw] transition ease-in-out duration-20000">
                 <img
                   src="https://images-eu.ssl-images-amazon.com/images/G/31/Local/Wk12/Furn_1x._SY116_CB579146779_.jpg"
@@ -51,7 +51,7 @@ export const Topcat = () => {
             </Link>
           </li>
           <li>
-            <Link to="/xyz">
+            <Link to="/content">
               <div className="relative w-[20vw] h-[20vw] transition ease-in-out duration-20000">
                 <img
                   src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"
